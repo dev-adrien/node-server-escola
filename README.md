@@ -13,16 +13,16 @@
 
 ## Execução do servidor:
 - install express and cors
-  ```
-    npm install -g express cors
-  ```
+```
+npm install -g express cors
+```
 
 - install nodemon
-  ```
-    npm install -g -D nodemon
-  ```
+```
+npm install -g -D nodemon
+```
 
 - execute server
-  ```
-    nodemon projeto-escola.js
-  ```
+```
+nodemon projeto-escola.js
+```
